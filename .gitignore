@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints
+default*.ipynb
+population
+__pycache__/
+geckodriver.log
