@@ -1,2 +1,2 @@
-# pds2021-opioids-team-9-1
-pds2021-opioids-team-9-1 created by GitHub Classroom
+# The Impact of State-Level Opioid Regulations on Opioid Prescriptions and Overdose Deaths
+For this project, the goal is to analyze the effectiveness of three specific opioid policy changes in three different states in the United States. The three states in question are Florida, Texas, and Washington. In order to evaluate the effect of the policy changes, we will conduct both a pre-post analysis and a difference-in-difference analysis. In the case of Texas and Washington, we will attempt to establish whether or not the trend in the shipment of opioids changed after the policy was implemented. In the case of Florida, we will track the same changes and investigate the trend in opioid deaths. The following outline displays the backward design strategy employed to create an action plan for this analysis.
