@@ -6,4 +6,4 @@ The [project outline](https://github.com/rw417/ids720-opioids-analysis/blob/main
 ## Deliverables
 Two reports were produced from this analysis:
 - [One version](https://github.com/rw417/ids720-opioids-analysis/blob/main/50_report_final/Opioid%20Regulation%20Report%20-%20Technical%20Audience.pdf) meant for audience familiar with statistics
-- [Another version](https://github.com/rw417/ids720-opioids-analysis/blob/main/50_report_final/Opioid%20Project%20Report%20-%20General%20Audience.pdf) meant for the general audience.
+- [Another version](https://github.com/rw417/ids720-opioids-analysis/blob/main/50_report_final/Opioid%20Project%20Report%20-%20General%20Audience.pdf) meant for the general audience
